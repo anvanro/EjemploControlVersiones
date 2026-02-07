@@ -23,5 +23,19 @@ l <- 3
 areaCuadrado <- l^2
 ```
 
+## Area triangulo
 
+```{r}
+base <- 8
+altura <- 9
+areaTriangulo <- (base*altura)/2
+```
+
+## Area rectangulo
+
+```{r}
+b <- 4
+a <- 7
+areaRectangulo <- b*a
+```
 
